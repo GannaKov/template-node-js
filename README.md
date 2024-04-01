@@ -34,3 +34,4 @@ vercel.json
 - [How to Deploy Your Node.js Backend on Vercel:](https://kanakkholwal.medium.com/how-to-deploy-your-node-js-backend-on-vercel-a-step-by-step-guide-21796db74601)
 - [Step-by-Step Guide](https://masteringbackend.com/posts/how-to-deploy-your-node-js-backend-project-to-vercel-a-step-by-step-guide)
 - [postgree node](https://www.youtube.com/watch?v=LZQ5n4PK1jM)
+- [mongoose](https://mongoosejs.com/docs/index.html)
